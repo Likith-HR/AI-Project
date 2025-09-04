@@ -19,6 +19,6 @@ Upload an image → CNN classifies the waste → app returns a detailed, practic
 
 ## Contact
 Team Data Drifters — 
-Likith H R 
-Rama Reddy M J
-M Krishna Kaushik
+Likith H R| 
+ Rama Reddy M J|
+ M Krishna Kaushik
